@@ -2,4 +2,5 @@
 authentication.js
 node_modules
 notes/
-**/*-todo.md
+**/*-todo.md  --> this comment means that any file with this extension will not be tracked 
+
